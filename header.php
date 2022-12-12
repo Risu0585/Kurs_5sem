@@ -6,7 +6,7 @@
                            <span class="icon-bar"></span>
                            <span class="icon-bar"></span>
                        </button>
-                       <a href="index.php" class="navbar-brand">магазин нейм</a>
+                       <a href="index.php" class="navbar-brand">CliviaStore</a>
                    </div>
                    
                    <div class="collapse navbar-collapse" id="myNavbar">
